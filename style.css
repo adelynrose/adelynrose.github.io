@@ -201,6 +201,7 @@ body {
   vertical-align: middle;
   width: 100%;
   border-radius: 25px;
+  cursor: pointer;
 }
 
 /* two photo*/
